@@ -19,12 +19,6 @@ The combination of diversity and intellect in our people has created a potent co
 
 We consider it part of our mission to sustain and improve Agilesoft as a place where exceptional people have an exceptional experience – one that becomes so much a part of them that it's hard for them to imagine being anywhere else.
 
-### Outsourcing
-
-Deltasoft has its software development center in Buenos Aires, Argentina.
-Argentina has become a growing destination for off-shore and near-shore outsourcing as it has several privileges when compared to offshore outsourcing traditional countries.
-Since Argentina is just a few time zones different from North America and Europe, communication is much easier. The similarities between Latin American culture/accent and other Western cultures/accents help our team to work seamlessly with your team.
-
 ### Contact Us
 
 info@agilesoftllc.com
